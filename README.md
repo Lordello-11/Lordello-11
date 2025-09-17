@@ -1,25 +1,70 @@
-<h2 align="left">Techs</h2>
+Ótimo! Você pode adicionar elementos animados ao README do seu perfil usando GIFs, badges dinâmicos, emojis e até SVGs animados. Vou montar um exemplo para você, focando em animação visual, destaque de projetos e um toque pessoal.
 
-###
+Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 como README.md.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&width=435&lines=Bem-vindo+ao+perfil+Lordello-11!;Desenvolvendo+e+aprendendo+todo+dia+%F0%9F%98%8E" alt="Typing SVG" />
 </div>
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lordello-11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lordello-11&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lordello-11&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Programando animado"/>
 </div>
 
-###
+---
+
+## 👋 Sobre mim
+
+- 🚀 Estudante em evolução constante  
+- 💻 Apaixonado por programação e tecnologia  
+- 📚 Foco em Python, projetos acadêmicos e utilitários  
+- 🤝 Sempre aberto a aprender e colaborar
+
+---
+
+## 🌟 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **projeto-sprint-2** | Projeto de estudo focado em lógica de programação | [Ver no GitHub](https://github.com/Lordello-11/projeto-sprint-2) |
+| **Facudade-sprnt** | Trabalhos e exercícios acadêmicos | [Ver no GitHub](https://github.com/Lordello-11/Facudade-sprnt) |
+| **PYTHON** | Repositório de scripts e exercícios Python | [Ver no GitHub](https://github.com/Lordello-11/PYTHON) |
+| **rafae** | Projeto experimental | [Ver no GitHub](https://github.com/Lordello-11/rafae) |
+| **projeto-login** | Sistema simples de login | [Ver no GitHub](https://github.com/Lordello-11/projeto-login) |
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lordello-11&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lordello-11&theme=radical" height="180"/>
+</div>
+
+---
+
+## 💡 Tecnologias e ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## ✉️ Contato
+
+- GitHub: [Lordello-11](https://github.com/Lordello-11)
+- (Opcional) Email: seu-email@dominio.com
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+</div>
+
+---
+
+**Dica:**  
+Você pode trocar os GIFs pelos seus favoritos!  
+Quer adicionar alguma tecnologia, frase ou projeto específico? Só pedir!
