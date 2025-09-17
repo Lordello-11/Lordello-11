@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Programando animado"/>
-</div>
----
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&width=435&lines=Bem-vindo+ao+perfil+Lordello-11!;Desenvolvendo+e+aprendendo+todo+dia+%F0%9F%98%8E" alt="Typing SVG" />
