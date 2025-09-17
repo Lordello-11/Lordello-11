@@ -1,6 +1,13 @@
-Ótimo! Você pode adicionar elementos animados ao README do seu perfil usando GIFs, badges dinâmicos, emojis e até SVGs animados. Vou montar um exemplo para você, focando em animação visual, destaque de projetos e um toque pessoal.
+Ótimo! Para deixar seu README de perfil ainda mais animado, você pode adicionar:
 
-Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 como README.md.
+- SVGs animados (ex: Typing SVG, Snake SVG para contribuições)
+- Gifs animados temáticos
+- Badges dinâmicos
+- Emojis personalizados
+- Shields animados (ex: visitantes, linguagens)
+- Barras de progresso animadas
+
+Veja este exemplo aprimorado para seu README.md com vários elementos animados e interativos:
 
 ---
 
@@ -14,12 +21,34 @@ Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 com
 
 ---
 
-## 👋 Sobre mim
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lordello-11&bg_color=1a2135&color=ff75b5&line=6c63ff&point=ffb86c&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-- 🚀 Estudante em evolução constante  
-- 💻 Apaixonado por programação e tecnologia  
-- 📚 Foco em Python, projetos acadêmicos e utilitários  
-- 🤝 Sempre aberto a aprender e colaborar
+---
+
+## 🏆 Contribuições
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lordello-11&theme=github_dark" />
+</p>
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lordello-11&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lordello-11&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🐍 Snake dos commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lordello-11/Lordello-11/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
@@ -35,27 +64,32 @@ Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 com
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lordello-11&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lordello-11&theme=radical" height="180"/>
-</div>
-
----
-
 ## 💡 Tecnologias e ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## ✉️ Contato
+## 🚀 Barras de progresso animadas
 
-- GitHub: [Lordello-11](https://github.com/Lordello-11)
+```svg
+<svg width="400" height="20">
+  <rect width="320" height="20" fill="#f75c7e"/>
+  <rect x="320" width="80" height="20" fill="#ddd"/>
+  <text x="10" y="15" fill="white" font-size="12">Python: 80%</text>
+</svg>
+```
+*Obs: SVGs animados podem ser incluídos como imagem hospedada ou via GitHub Actions.*
 
+---
+
+## ✨ Badges animados
+
+![visitantes](https://komarev.com/ghpvc/?username=Lordello-11&color=ff75b5&style=plastic)
+![followers](https://img.shields.io/github/followers/Lordello-11?label=Followers&style=social)
+![stars](https://img.shields.io/github/stars/Lordello-11?style=social)
 
 ---
 
@@ -65,3 +99,17 @@ Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 com
 
 ---
 
+## 💌 Contato
+
+- GitHub: [Lordello-11](https://github.com/Lordello-11)
+- (Opcional) Email: seu-email@dominio.com
+
+---
+
+**Dica:**  
+Quer inserir mais animações, como gráficos, ou personalizar cores? Me envie seus GIFs favoritos, cores ou temas e ajusto para você!
+
+---
+
+Se quiser que eu gere os SVGs animados para “Snake Commit” ou barras de progresso automáticas, avise!  
+Você também pode usar GitHub Actions para atualizar animações como o Snake e Activity Graph automaticamente.
