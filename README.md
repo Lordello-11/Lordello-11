@@ -1,13 +1,3 @@
-Ótimo! Para deixar seu README de perfil ainda mais animado, você pode adicionar:
-
-- SVGs animados (ex: Typing SVG, Snake SVG para contribuições)
-- Gifs animados temáticos
-- Badges dinâmicos
-- Emojis personalizados
-- Shields animados (ex: visitantes, linguagens)
-- Barras de progresso animadas
-
-Veja este exemplo aprimorado para seu README.md com vários elementos animados e interativos:
 
 ---
 
@@ -106,10 +96,5 @@ Veja este exemplo aprimorado para seu README.md com vários elementos animados e
 
 ---
 
-**Dica:**  
-Quer inserir mais animações, como gráficos, ou personalizar cores? Me envie seus GIFs favoritos, cores ou temas e ajusto para você!
 
----
 
-Se quiser que eu gere os SVGs animados para “Snake Commit” ou barras de progresso automáticas, avise!  
-Você também pode usar GitHub Actions para atualizar animações como o Snake e Activity Graph automaticamente.
