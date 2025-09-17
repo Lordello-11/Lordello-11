@@ -55,7 +55,7 @@ Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 com
 ## ✉️ Contato
 
 - GitHub: [Lordello-11](https://github.com/Lordello-11)
-- (Opcional) Email: seu-email@dominio.com
+
 
 ---
 
@@ -65,6 +65,3 @@ Você pode copiar, editar e usar no seu repositório Lordello-11/Lordello-11 com
 
 ---
 
-**Dica:**  
-Você pode trocar os GIFs pelos seus favoritos!  
-Quer adicionar alguma tecnologia, frase ou projeto específico? Só pedir!
