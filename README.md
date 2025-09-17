@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Programando animado"/>
+</div>
 ---
 
 <div align="center">
